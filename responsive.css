@@ -1,0 +1,56 @@
+@media screen and (max-width: 1200px) {
+  #hide
+  {
+  	visibility: collapse;
+  }
+}
+@media screen and (min-width: 767px) {
+  #hide1
+  {
+  	visibility: collapse;
+  }
+}
+@media screen and (max-width: 767px) {
+  .ph
+  {
+    width: 380px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 402px) {
+  .ph
+  {
+    width: 300px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .b1
+  {
+    padding: 15px 165px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .b1
+  {
+    padding: 15px 110px;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .hdertext
+  {
+    font-size: 60px;
+  }
+}
+@media screen and (max-width: 570px) {
+  .hdertext
+  {
+    font-size: 30px;
+  }
+}
+
+
+
+
