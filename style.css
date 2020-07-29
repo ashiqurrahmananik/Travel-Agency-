@@ -40,11 +40,7 @@ li
 {
 	padding: 100px 0;
 }
-#section3
-{
-	background-color: #1EC6B6;
-	padding: 80px 0;
-}
+
 .ph1
 {
 	height: 50px;
@@ -114,4 +110,10 @@ li
 .ds2
 {
 	background-color: #F7FAFD;
+}
+#section3
+{
+	background-color: #1EC6B6;
+	padding: 80px 0;
+	
 }
